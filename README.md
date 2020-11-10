@@ -2,5 +2,5 @@
 Proyecto Final Automatas 
 
 # DATOS
+Nombre: Mario Ruben Garcia Monzon<br>
 Carne:1290-12-11180
-Nombre: Mario Ruben Garcia Monzon
